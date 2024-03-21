@@ -1,6 +1,6 @@
 ---
 title: "LibAFL Fuzzing Holy Bible - Chapter II: Fuzzing Libexif - CVE-2009-3895 & CVE-2012-2836"
-date: 2023-11-27
+date: 2024-03-21
 draft: false
 summary: "Using LibAFL fuzzer to reproduce CVE-2009-3895 & CVE-2012-2836"
 tags: ["libafl"]
